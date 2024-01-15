@@ -7,7 +7,7 @@ public class demo1 {
 
 	}
 	void display () {
-	  System.out.println("branch d2");
+	  System.out.println("branch d2 commit");
 	}
 
 }
